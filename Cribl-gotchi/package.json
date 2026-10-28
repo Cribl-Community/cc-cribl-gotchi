@@ -31,7 +31,7 @@
   },
   "displayName": "Cribl-gotchi",
   "description": "A ridiculous Tamagotchi for your Cribl workspace. It eats logs, wears a unibrow, and dies of backpressure.",
-  "author": "Darren Fuller - Chaos Junkie",
+  "author": "Darren Fuller - support@discoveredintelligence.ca",
   "license": "Apache-2.0",
   "cribl": {
     "type": "app",

@@ -131,7 +131,7 @@ No external call is made until someone arms a webhook. The URL is not written in
 ## Support
 
 ### Community Built
-This app is a community hackathon entry by Darren Fuller (Chaos Junkie). It does not carry an official support commitment from Cribl. Questions can go to the submission repository issues, once the repo exists under the Cribl-Community organization.
+This app is a CriblCon hackathon entry by Darren Fuller from the team at Discovered Intelligence. It does not carry an official support commitment from Cribl.  Support related questions can be sent to support@discoveredintelligence.ca or via issues on github.
 
 ## Limitations
 
@@ -200,10 +200,10 @@ Use this table as the canonical source for gallery fields. Keep the left column 
 | App Name | Cribl-gotchi |
 | App ID | Cribl-gotchi |
 | Version | 1.0.0 |
-| Author | Darren Fuller - Chaos Junkie |
+| Author | Darren Fuller - Discovered Intelligence |
 | Support Model | community-built |
 | Support Label | Community Built |
-| Support Contact | Hackathon submission repository issues |
+| Support Contact | support@discoveredintelligence.ca |
 | License | Apache-2.0 |
 | License File | [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt) |
 | Product Tags | stream |
